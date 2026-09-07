@@ -1,4 +1,6 @@
-article {
+:root {
+  --cor-destaque: #ff00aa;
+}article {
   display: flex;
   flex-direction: row;
   gap: 20px;
@@ -8,6 +10,7 @@ article {
   width: 100%;
   display: flex;
   flex-direction: column;
+  border: 2px solid var(--cor-destaque);
 }
 
 .card img {
