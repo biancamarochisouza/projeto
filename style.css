@@ -21,3 +21,6 @@ article {
 button {
   align-self: flex-start;
 }
+.modo-escuro {
+  --cor-destaque: #66ffff;
+}
