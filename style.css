@@ -1,6 +1,7 @@
 :root {
   --cor-destaque: #ff00aa;
-}article {
+}
+article {
   display: flex;
   flex-direction: row;
   gap: 20px;
