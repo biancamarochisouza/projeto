@@ -24,3 +24,11 @@ button {
 .modo-escuro {
   --cor-destaque: #66ffff;
 }
+.btn-voltar-topo {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
